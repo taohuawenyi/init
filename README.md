@@ -7,8 +7,8 @@
 <br>
 
 🎵 彩虹 - 乔楚熙
-<audio controls="controls">
-    <source src="https://github.com/taohuawenyi/init/blob/master/Resource/caihong.mp3">
+<audio id="audio" controls="controls">
+    <source id="mp3" src="https://github.com/taohuawenyi/init/blob/master/Resource/caihong.mp3">
     Your browser does not support the Audio tag.
 </audio>
 
