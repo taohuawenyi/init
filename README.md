@@ -1,10 +1,8 @@
-## init
+## 2011~2023
 
 > 即使有今生的遗憾，却还有来世的希望。
 
 ![](https://github.com/taohuawenyi/init/blob/master/Pix/thwy.jpg)
-
-<br>
 
 <!-- 
 🎵 彩虹 - 乔楚熙
@@ -14,5 +12,5 @@
 </audio>
  -->
 
-Update: 2023年·春分，十二周年（2011～2023）纪念。
+Update: 2023年·春分，十二周年纪念。
 
